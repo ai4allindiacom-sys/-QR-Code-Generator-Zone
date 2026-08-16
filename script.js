@@ -29,6 +29,6 @@ function downloadQR() {
 
   const a = document.createElement("a");
   a.href = source;
-  a.download = "sahil-qr-code.png";
+  a.download = "lucky-qr-code.png";
   a.click();
 }
